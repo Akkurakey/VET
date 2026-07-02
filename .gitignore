@@ -1,0 +1,89 @@
+# =========================================================
+#  Unity .gitignore for the VET project
+#  Place this file in the PROJECT ROOT, renamed to  .gitignore
+# =========================================================
+
+# --- Unity generated folders (never commit) ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Keep asset .meta files (must stay paired with committed assets)
+!/[Aa]ssets/**/*.meta
+
+# --- IDE / editor ---
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- OS / misc ---
+.DS_Store
+Thumbs.db
+sysinfo.txt
+
+# --- Builds ---
+*.apk
+*.aab
+*.unitypackage
+*.app
+.gradle/
+
+# =========================================================
+#  Third-party assets — excluded (re-import per README)
+#  Each folder AND its .meta excluded together.
+#  These lines MUST come AFTER the  !/[Aa]ssets/**/*.meta  line above.
+# =========================================================
+
+# Asset Store — redistribution prohibited by EULA
+/Assets/PB_Spider/
+/Assets/PB_Spider.meta
+
+# CC BY 4.0 downloaded packs (excluded for size; credited in README)
+/Assets/MRTemplateAssets/
+/Assets/MRTemplateAssets.meta
+/Assets/cans-dirty-and-crumpled-3-piece-set/
+/Assets/cans-dirty-and-crumpled-3-piece-set.meta
+/Assets/depression-room/
+/Assets/depression-room.meta
+/Assets/dirty-cardboard-box/
+/Assets/dirty-cardboard-box.meta
+/Assets/dirty-crumpled-pieces-of-paper-6-piece-set/
+/Assets/dirty-crumpled-pieces-of-paper-6-piece-set.meta
+/Assets/dirty-plastic-bottles-trash-3-piece-set/
+/Assets/dirty-plastic-bottles-trash-3-piece-set.meta
+/Assets/dirty-street-corner-with-graffiti-free/
+/Assets/dirty-street-corner-with-graffiti-free.meta
+/Assets/garbage-bin/
+/Assets/garbage-bin.meta
+/Assets/rubbish/
+/Assets/rubbish.meta
+/Assets/trash-can/
+/Assets/trash-can.meta
+/Assets/vomit/
+/Assets/vomit.meta
+
+# Optional — regenerable via Package Manager (uncomment to also exclude):
+# /Assets/Samples/
+# /Assets/Samples.meta
+# /Assets/XRI/
+# /Assets/XRI.meta
+# /Assets/TextMesh Pro/
+# /Assets/TextMesh Pro.meta
