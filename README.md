@@ -75,6 +75,11 @@ The 3D assets below are **not redistributed** in this repository, for reasons of
 
 > The Animated Spider asset appears to have been removed from the Unity Asset Store and may no longer be available. It is not included in this repository. To run the spider scenarios, substitute a comparable animated spider model with static and moving (crawling) states, and reassign it in the relevant scenes.
 
+<br>
+
 ## Status
 
 Research prototype. Built for a specific project and shared for transparency, rather than as production-ready software.
+
+
+<br>
