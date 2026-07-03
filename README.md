@@ -4,11 +4,9 @@ A Unity-based AR/VR prototype for exposure-based therapy, built for the Meta Que
 
 > **A note on terminology:** this project does not distinguish between AR and MR. Both are referred to as AR throughout, although the passthrough-based scenarios also fall within the scope of MR.
 
-
 ## Overview
 
 The prototype comprises four scenarios integrated within a single Unity project: an AR spider scenario, a VR spider scenario, an AR contamination scenario, and a VR contamination scenario. Users are guided through the scenarios via in-headset instruction cards and can interact with the virtual models in each using their hands.
-
 
 ## Hardware and Engine
 
@@ -20,17 +18,14 @@ Development was carried out in **Unity**.
 - XR: OpenXR / XR Interaction Toolkit, with ARCore, ARKit, and Oculus loaders configured
 - Interaction: Meta Quest 3 hand tracking
 
-
 ## Scenarios
 
 ▶️ **[Watch the demo video on YouTube](https://www.youtube.com/watch?v=r-H0cZzmMKs)**
 
 [![VET demo video](https://img.youtube.com/vi/r-H0cZzmMKs/hqdefault.jpg)](https://www.youtube.com/watch?v=r-H0cZzmMKs)
 
-
 ### User interface
 Instruction cards introduce and start the prototype, and a settings menu is opened by rotating the right hand. Through this menu the user can move between scenes, switch scenario, and switch between AR and VR modes.
-
 
 ### Spider scenario
 Interactive virtual spiders with both static and moving states. While static, a spider shows small idle animations; touching or picking up a static spider triggers a moving state in which it crawls forward with leg animation.
@@ -44,14 +39,12 @@ Scattered rubbish and a dirty rubbish bin, using various 3D rubbish models (deca
 - **AR:** the rubbish and bin are superimposed onto the real-world environment within a customisable generation area.
 - **VR:** a surrounding modelled street corner with graffiti-covered walls and a dirty ground, presenting the rubbish and bin within a consistent environment.
 
-
 ## Getting Started
 
 1. Clone the repository.
 2. Open the project in Unity Hub (Unity 2022.3.22f1).
 3. Import the third-party assets listed below from their sources.
 4. Open a scene under `Assets/A-Scenes/` and press Play, or build to a Meta Quest 3.
-
 
 ## Third-Party Assets
 
