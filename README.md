@@ -64,13 +64,13 @@ The 3D assets below are **not redistributed** in this repository, for reasons of
 |-----------------------|---------|--------|--------|---------|
 | Animated Spider | Spider (AR/VR) | — | Unity Asset Store (appears removed, no longer available) | — |
 | depression room | Spider (VR) | CrimsonJBK | [skfb.ly/oEErY](https://skfb.ly/oEErY) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Dirty Street Corner with Graffiti FREE | Contamination (VR) | roxyjungle | [skfb.ly/6nvtL](https://skfb.ly/6nvtL), [skfb.ly/6WMut](https://skfb.ly/6WMut) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| rubbish | Contamination (AR/VR) | 3DWALKABOUT | [skfb.ly/oGz9S](https://skfb.ly/oGz9S) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Dirty Plastic Bottles Trash - 3 Piece Set | Contamination (AR/VR) | Sunbox Games | [skfb.ly/oODJT](https://skfb.ly/oODJT) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Dirty Street Corner with Graffiti FREE | Contamination (VR) | roxyjungle | [skfb.ly/6nvtL](https://skfb.ly/6nvtL) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| rubbish | Contamination (AR/VR) | 3DWALKABOUT | [skfb.ly/6WMut](https://skfb.ly/6WMut) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Dirty Plastic Bottles Trash - 3 Piece Set | Contamination (AR/VR) | Sunbox Games | [skfb.ly/oGz9S](https://skfb.ly/oGz9S) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Cans - Dirty and Crumpled 3 Piece Set | Contamination (AR/VR) | Sunbox Games | [skfb.ly/oDVSF](https://skfb.ly/oDVSF) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Rotten Dirty Organic Waste | Contamination (AR/VR) | Sunbox Games | [skfb.ly/oFs8U](https://skfb.ly/oFs8U) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| vomit | Contamination (AR/VR) | dante | [skfb.ly/6XpLS](https://skfb.ly/6XpLS) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Dirty Cardboard Box | Contamination (AR/VR) | marco.cossetti | Sketchfab | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| vomit | Contamination (AR/VR) | dante | [skfb.ly/oODJT](https://skfb.ly/oODJT) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Dirty Cardboard Box | Contamination (AR/VR) | marco.cossetti | [skfb.ly/6XpLS](https://skfb.ly/6XpLS) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Garbage Bin | Contamination (AR/VR) | Rob Ortiz | [skfb.ly/onWL7](https://skfb.ly/onWL7) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 > The Animated Spider asset appears to have been removed from the Unity Asset Store and may no longer be available. It is not included in this repository. To run the spider scenarios, substitute a comparable animated spider model with static and moving (crawling) states, and reassign it in the relevant scenes.
