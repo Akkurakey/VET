@@ -4,9 +4,13 @@ A Unity-based AR/VR prototype for exposure-based therapy, built for the Meta Que
 
 > **A note on terminology:** this project does not distinguish between AR and MR. Both are referred to as AR throughout, although the passthrough-based scenarios also fall within the scope of MR.
 
+<br>
+
 ## Overview
 
 The prototype comprises four scenarios integrated within a single Unity project: an AR spider scenario, a VR spider scenario, an AR contamination scenario, and a VR contamination scenario. Users are guided through the scenarios via in-headset instruction cards and can interact with the virtual models in each using their hands.
+
+<br>
 
 ## Hardware and Engine
 
@@ -17,6 +21,8 @@ Development was carried out in **Unity**.
 - Unity 2022.3.22f1
 - XR: OpenXR / XR Interaction Toolkit, with ARCore, ARKit, and Oculus loaders configured
 - Interaction: Meta Quest 3 hand tracking
+
+<br>
 
 ## Scenarios
 
@@ -39,12 +45,16 @@ Scattered rubbish and a dirty rubbish bin, using various 3D rubbish models (deca
 - **AR:** the rubbish and bin are superimposed onto the real-world environment within a customisable generation area.
 - **VR:** a surrounding modelled street corner with graffiti-covered walls and a dirty ground, presenting the rubbish and bin within a consistent environment.
 
+<br>
+
 ## Getting Started
 
 1. Clone the repository.
 2. Open the project in Unity Hub (Unity 2022.3.22f1).
 3. Import the third-party assets listed below from their sources.
 4. Open a scene under `Assets/A-Scenes/` and press Play, or build to a Meta Quest 3.
+
+<br>
 
 ## Third-Party Assets
 
