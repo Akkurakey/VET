@@ -18,7 +18,7 @@ The prototype targets the **Meta Quest 3**.
 
 Development was carried out in **Unity**.
 
-- Unity 2022.3.22f1
+- Unity Version: 2022.3.22f1
 - XR: OpenXR / XR Interaction Toolkit, with ARCore, ARKit, and Oculus loaders configured
 - Interaction: Meta Quest 3 hand tracking
 
